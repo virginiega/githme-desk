@@ -1,0 +1,23 @@
+{
+  "name": "githme-desk",
+  "version": "1.0.0",
+  "description": "Githme desk app for reservation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virginiega/githme-desk.git"
+  },
+  "dependencies": {
+    "ace-poke": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virginiega/githme-desk/issues"
+  },
+  "homepage": "https://github.com/virginiega/githme-desk#readme"
+}
