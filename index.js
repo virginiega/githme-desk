@@ -9,7 +9,6 @@ class GithmeDesk {
       if (numberOfDesks <= this.availableDesks) {
         this.reservedDesks.push({ user, numberOfDesks });
         this.availableDesks -= numberOfDesks;
-        console.log(`${user} reserved ${numberOfDesks} desk(s).`);
       } else {
         console.log(`Not enough desks available. Unable to reserve.`);
       }

@@ -1,6 +1,6 @@
 {
   "name": "githme-desk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Githme desk app for reservation",
   "main": "index.js",
   "scripts": {
