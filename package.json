@@ -1,6 +1,6 @@
 {
   "name": "githme-desk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Githme desk app for reservation",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "ace-poke": "1.0.0",
+    "devoneep-de": "1.0.0",
     "minti_fulkerson": "0.1.4",
     "dimonpakim0n-2": "1.0.0"
   },
